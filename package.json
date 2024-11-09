@@ -1,0 +1,27 @@
+{
+  "name": "@wearemanic/express-stripe-payments",
+  "version": "1.0.0",
+  "description": "Plug and play Stripe payments for Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manic-llc/express-stripe-payments.git"
+  },
+  "keywords": [
+    "express",
+    "stripe",
+    "payments"
+  ],
+  "author": "Zach Winter (zach@manic.llc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manic-llc/express-stripe-payments/issues"
+  },
+  "homepage": "https://github.com/manic-llc/express-stripe-payments#readme",
+  "dependencies": {
+    "stripe": "^17.3.1"
+  }
+}
